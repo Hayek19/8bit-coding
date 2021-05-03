@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1615240927 source:c:\users\filip\desktop\studia\iv semestr\telekomuna\zadanie1\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<string.h>
+	<memory>
+	<limits>
+	<algorithm>
+	<fstream>
+	<string>
+	<vector>
+
+1615262431 source:c:\users\admin\downloads\zadanie1\main.cpp
+	<iostream>
+
+1615318907 source:c:\users\admin\documents\sem4\telekomunikacja\zadanie1\main.cpp
+	<iostream>
+	<vector>
+
